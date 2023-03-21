@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzY6uZwPn8b1z/lxCaNtxUpe+Ako1K1RfGpguGizW7C2Gx2KBuwWq5hj3j+cn5VL4Kn5oNXFU9LGbAFXC926cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SEPT\\Desktop\\projet\\epita-prepa-acdc-prog-101-p-01-2027-mathias.gillet\\Basics\\Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEPT\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SEPT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SEPT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\SEPT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
